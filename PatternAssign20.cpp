@@ -34,7 +34,7 @@ void Pattern1(int arr[], int iSize)
 	 }
 }
 // 2. Write a program which print below pattern as
-///////////////////////////////////////////
+////////////////////////////////////////////
 //
 // Innput : 89 67 45 11 78
 // 5
